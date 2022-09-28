@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# Regex Tutorial
 
-Introductory paragraph (replace this with your text)
+Regular expressions allow us to search through text to do validation, find and replace and many other important functions.
 
 ## Summary
 
